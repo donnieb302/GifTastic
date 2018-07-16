@@ -1,0 +1,53 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url("tiger.jpg");
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 10px 24px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6 px 20px 0 rgba(0,0,0,0.19);
+    background-color: blue;
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+
+}
+
+label  {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+form {
+    margin-top: 1%
+}
+
+input {
+    width: 100px;
+    border-radius: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+    background-color: blue;
+}
+
+#user-input[type=text] {
+    width: 400px;
+    background-color: white;
+    background-image: 'images/searchicon.png';
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+
+}

@@ -1,1 +1,1 @@
-# GifTastic
+Use the GIPHY API to make a dynamic web page that populates with the gifs of your choice. Technologies used include JavaScript, jQuery, and the GIPHY API.
